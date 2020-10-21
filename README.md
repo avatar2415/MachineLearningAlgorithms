@@ -1,3 +1,3 @@
 # MachineLearningAlgorithms
-Easiest way apply machine learning algorithms for beginners
+Easiest way to apply machine learning algorithms for beginners
 
